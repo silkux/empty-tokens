@@ -268,4 +268,5 @@ The practitioner chooses which side of that gap to operate on.
 ---
 
 
-Silk 2026 - License: If you need to share with your insights, do it.
+Silk 2026 - License: If you need to share with your authorship
+insights, do it. But it is impossible to learn to raiding a bike if you copy and paste.
