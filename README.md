@@ -266,3 +266,6 @@ This document is not a set of recommendations. It is a description of the only o
 The practitioner chooses which side of that gap to operate on.
 
 ---
+
+
+Silk 2026 - License: If you need to share with your insights, do it.
